@@ -64,7 +64,7 @@ A terminal/console environment.
 
 Clone the repository:
 
-git clone https://github.com/your-username/cpp-banking-system.git
+git clone https://github.com/mohamedghareeb9/cpp-banking-system.git
 cd cpp-banking-system
 
 
