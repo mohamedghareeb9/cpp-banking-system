@@ -36,12 +36,6 @@ Libraries Used:
 
 <functional> – hashing for password security
 
-📂 Project Structure
-cpp-banking-system/
-├── users/                 # Auto-created folder storing account data
-├── main.cpp               # Main source code
-└── README.md              # Project documentation
-
 
 Each account file:
 
